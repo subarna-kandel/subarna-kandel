@@ -32,19 +32,163 @@ I'm from Nepal, with a background in Agriculture and Soil Science. I use this sp
 - Learning about agriculture, data, and quantitative finance
 - Learning new things and building small projects along the way
 
-## My toolbox
+## 🧰 My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,tensorflow" alt="Python, R, Git, GitHub, VS Code, TensorFlow" />
+  <i>Tools I use to learn, analyze, automate, and build.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ArcGIS%20Pro-GIS-2C7AC3?style=flat" alt="ArcGIS Pro" />
-  <img src="https://img.shields.io/badge/QGIS-Geospatial-589632?style=flat&logo=qgis&logoColor=white" alt="QGIS" />
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-Remote%20Sensing-4285F4?style=flat&logo=googleearth&logoColor=white" alt="Google Earth Engine" />
-  <img src="https://img.shields.io/badge/ArcPy-GIS%20Automation-2C7AC3?style=flat" alt="ArcPy" />
-  <img src="https://img.shields.io/badge/agricolae-Experimental%20Design-276DC3?style=flat" alt="agricolae" />
+  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-Data%20Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIS-Geospatial-2C7AC3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Build%20%26%20Share-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
 </p>
+
+---
+
+### 💻 Programming & Analysis
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,tensorflow&theme=dark" />
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>Python</b><br/>
+      <sub>Scripting & Automation</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>R</b><br/>
+      <sub>Data Analysis & Statistics</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Git & GitHub</b><br/>
+      <sub>Version Control & Projects</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>VS Code</b><br/>
+      <sub>Development Environment</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌍 GIS & Remote Sensing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ArcGIS%20Pro-GIS%20Analysis-2C7AC3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QGIS-Spatial%20Analysis-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-Remote%20Sensing-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcPy-GIS%20Automation-2C7AC3?style=for-the-badge" />
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>ArcGIS Pro</b><br/>
+      <sub>GIS Analysis & Mapping</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>QGIS</b><br/>
+      <sub>Open-Source Spatial Analysis</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Google Earth Engine</b><br/>
+      <sub>Satellite Data & Remote Sensing</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>ArcPy</b><br/>
+      <sub>GIS Workflows with Python</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Statistics & Research
+
+<p align="center">
+  <img src="https://img.shields.io/badge/agricolae-Experimental%20Design-276DC3?style=flat-square" />
+  <img src="https://img.shields.io/badge/dplyr-Data%20Manipulation-1F78B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/ggplot2-Data%20Visualization-E69F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/tidyverse-Data%20Science-7A64A5?style=flat-square" />
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>agricolae</b><br/>
+      <sub>Experimental Design</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>dplyr</b><br/>
+      <sub>Data Manipulation</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>ggplot2</b><br/>
+      <sub>Statistical Visualization</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>tidyverse</b><br/>
+      <sub>Data Science Workflows</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ Other Tools & Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-Technical%20Writing-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Modeling-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Workflow%20Improvement-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Learn%20%26%20Share-3DA639?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>Markdown</b><br/>
+      <sub>Documentation</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>LaTeX</b><br/>
+      <sub>Technical Writing</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>SQL & Databases</b><br/>
+      <sub>Data Queries & Management</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Machine Learning</b><br/>
+      <sub>Models & Experimentation</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <b>Automation</b><br/>
+      <sub>Simplifying Repetitive Tasks</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Open Source</b><br/>
+      <sub>Build, Learn & Share</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Continuous Learning</b><br/>
+      <sub>Exploring New Technologies</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Problem Solving</b><br/>
+      <sub>Making Complex Tasks Simpler</sub>
+    </td>
+  </tr>
+</table>
 
 ## Most Used Languages
 
