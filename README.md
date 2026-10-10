@@ -15,7 +15,7 @@
 
 ## A little about me
 
-I'm from Nepal, with a background in Agriculture and Soil Science. I use this space to share code, small projects, experiments, and things I'm learning. Most of my work sits somewhere between agriculture, maps, data analysis, and automation—with some finance and machine learning mixed in.
+I'm from Nepal, with a background in Agriculture and Soil Science. I use this space to share code, small projects, experiments, and things I'm learning. Most of my work sits somewhere between agriculture, maps, data analysis, and automation—with machine learning mixed in.
 
 ## What I upload here
 
@@ -47,15 +47,15 @@ I'm from Nepal, with a background in Agriculture and Soil Science. I use this sp
   <img src="https://img.shields.io/badge/agricolae-Experimental%20Design-276DC3?style=flat" alt="agricolae" />
 </p>
 
-## GitHub at a glance
+## Most Used Languages
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=subarna-kandel&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=subarna-kandel&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" /> -->
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subarna-kandel&layout=compact&hide_border=true&langs_count=8" alt="Most used languages on GitHub" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=subarna-kandel&hide_border=true" alt="GitHub contribution streak" />
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=subarna-kandel&hide_border=true" alt="GitHub contribution streak" /> -->
 </div>
 
 ---
