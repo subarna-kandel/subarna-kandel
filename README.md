@@ -3,8 +3,7 @@
 # Hey, I'm Subarna 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=I+turn+repetitive+tasks+into+code;GIS+%7C+Google+Earth+Engine+%7C+R;Agriculture+data+analysis+%7C+Python;Learning%2C+building%2C+and+experimenting" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=I+turn+repetitive+tasks+into+code;I+love+making+complex+tasks+simple;GIS+%7C+Google+Earth+Engine+%7C+R;Automation+%7C+Python+%7C+Open+Source" alt="Typing SVG" /></a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-subarnakandel.co.np-222?style=flat&logo=googlechrome&logoColor=white)](https://subarnakandel.co.np)
 [![Email](https://img.shields.io/badge/Email-mail%40subarnakandel.co.np-8A2BE2?style=flat&logo=gmail&logoColor=white)](mailto:mail@subarnakandel.co.np)
