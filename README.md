@@ -140,6 +140,41 @@ I'm from Nepal, with a background in Agriculture and Soil Science. I use this sp
 
 ---
 
+<style>
+*{box-sizing:border-box;margin:0}
+body{background:radial-gradient(ellipse at top left,#0b2a52 0,#061226 55%,#050c1b 100%);color:#fff;font-family:Inter,"Segoe UI",system-ui,sans-serif;padding:28px 28px 36px;min-height:100vh}
+header{display:flex;align-items:center;gap:22px}
+header .wrench{font-size:64px;filter:hue-rotate(160deg) saturate(2)}
+h1{font-size:64px;font-weight:800;line-height:1}
+h1 span{color:#1fa0ff}
+header p{color:#8fb4e6;font-size:24px;margin-top:6px}
+.bar{height:4px;border-radius:4px;margin:18px 0 22px;background:linear-gradient(90deg,#1f7bff,#19d3a0,#37e06f)}
+.grid{display:grid;gap:22px 16px;grid-template-columns:1.65fr 1fr;grid-template-areas:"blue green" "purple orange"}
+.grid{grid-template-columns:repeat(12,1fr);grid-template-areas:"blue blue blue blue blue blue blue green green green green green" "purple purple purple purple purple orange orange orange orange orange orange orange"}
+.panel{border:1.5px solid var(--c);border-radius:14px;padding:16px 18px 18px;background:var(--bg)}
+.blue{--c:#1f6fd6;--bg:rgba(14,60,130,.25);--t:#2cb4ff}
+.green{--c:#16a765;--bg:rgba(10,80,50,.3);--t:#2fe08a}
+.purple{--c:#8a3fe0;--bg:rgba(70,25,120,.35);--t:#b46bff}
+.orange{--c:#e7741c;--bg:rgba(110,50,10,.3);--t:#ff9a2e}
+h2{display:flex;align-items:center;gap:14px;color:var(--t);font-size:22px;letter-spacing:.14em;font-weight:700;margin-bottom:16px}
+h2 i{font-style:normal;font-size:24px}
+h2 em{flex:1;height:2px;background:var(--c);position:relative}
+h2 em::after{content:"";position:absolute;right:0;top:-4px;width:10px;height:10px;border-radius:50%;background:var(--t)}
+.row{display:flex;gap:10px;justify-content:space-between}
+.tool{flex:1;display:flex;flex-direction:column;align-items:center;text-align:center;gap:4px;min-width:0}
+.tool b{font-size:18px;font-weight:700;margin-top:6px}
+.tool span{font-size:15px;color:#a9b9d6;line-height:1.3}
+.ico{width:100%;aspect-ratio:1.1;max-width:140px;border:1.5px solid var(--c);border-radius:12px;display:grid;place-items:center;background:linear-gradient(160deg,rgba(255,255,255,.07),rgba(255,255,255,.01))}
+.ico img{width:56%;height:56%;object-fit:contain}
+@media(max-width:1000px){.grid{grid-template-columns:1fr;grid-template-areas:"blue" "green" "purple" "orange"}.row{flex-wrap:wrap;justify-content:center}.tool{flex:0 0 120px}h1{font-size:44px}}
+</style></head><body>
+<header><div class="wrench">🔧</div><div><h1>My <span>Toolbox</span></h1><p>Tools I use to learn, analyze, automate and build.</p></div></header>
+<div class="bar"></div>
+<main class="grid">
+<section class="panel blue" style="grid-area:blue"><h2><i>💻</i>PROGRAMMING &amp; ANALYSIS<em></em></h2><div class="row"><div class="tool"><div class="ico"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"></div><b>Python</b><span>Scripting &amp; Automation</span></div><div class="tool"><div class="ico"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R"></div><b>R</b><span>Data Analysis &amp; Statistics</span></div><div class="tool"><div class="ico"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"></div><b>Git</b><span>Version Control</span></div><div class="tool"><div class="ico"><img src="https://cdn.simpleicons.org/github/white" alt="GitHub"></div><b>GitHub</b><span>Project Hosting</span></div><div class="tool"><div class="ico"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"></div><b>VS Code</b><span>Development Environment</span></div><div class="tool"><div class="ico"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter"></div><b>Jupyter</b><span>Interactive Notebooks</span></div><div class="tool"><div class="ico"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"></div><b>TensorFlow</b><span>Machine Learning</span></div></div></section>
+<section class="panel green" style="grid-area:green"><h2><i>📶</i>GIS &amp; REMOTE SENSING<em></em></h2><div class="row"><div class="tool"><div class="ico"><img src="https://cdn.simpleicons.org/arcgis/2f9bff" alt="ArcGIS Pro"></div><b>ArcGIS Pro</b><span>GIS Analysis &amp; Mapping</span></div><div class="tool"><div class="ico"><img src="https://cdn.simpleicons.org/qgis/93b023" alt="QGIS"></div><b>QGIS</b><span>Spatial Analysis (Open Source)</span></div><div class="tool"><div class="ico"><img src="https://cdn.simpleicons.org/googleearth/4285f4" alt="Google Earth Engine"></div><b>Google Earth Engine</b><span>Remote Sensing &amp; Geospatial Data</span></div><div class="tool"><div class="ico"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="ArcPy"></div><b>ArcPy</b><span>GIS Automation with Python</span></div></div></section>
+<section class="panel purple" style="grid-area:purple"><h2><i>📈</i>STATISTICS &amp; RESEARCH<em></em></h2><div class="row"><div class="tool"><div class="ico"><img src="https://cdn.simpleicons.org/leaflet/2fb86f" alt="agricolae"></div><b>agricolae</b><span>Experimental Design</span></div><div class="tool"><div class="ico"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/dplyr.png" alt="dplyr"></div><b>dplyr</b><span>Data Manipulation</span></div><div class="tool"><div class="ico"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/ggplot2.png" alt="ggplot2"></div><b>ggplot2</b><span>Data Visualization</span></div><div class="tool"><div class="ico"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/PNG/tidyverse.png" alt="tidyverse"></div><b>tidyverse</b><span>Data Science Workflows</span></div></div></section>
+<section class="panel orange" style="grid-area:orange"><h2><i>⚙️</i>OTHER TOOLS<em></em></h2><div class="row"><div class="tool"><div class="ico"><img src="https://cdn.simpleicons.org/markdown/29a8ff" alt="Markdown"></div><b>Markdown</b><span>Documentation</span></div><div class="tool"><div class="ico"><img src="https://cdn.simpleicons.org/latex/white" alt="LaTeX"></div><b>LaTeX</b><span>Reports &amp; Writing</span></div><div class="tool"><div class="ico"><img src="https://cdn.simpleicons.org/postgresql/29a8ff" alt="SQL"></div><b>SQL</b><span>Database Queries &amp; Management</span></div><div class="tool"><div class="ico"><img src="https://cdn.simpleicons.org/tensorflow/d9a5ff" alt="Machine Learning"></div><b>Machine Learning</b><span>Models &amp; Experimentation</span></div><div class="tool"><div class="ico"><img src="https://cdn.simpleicons.org/githubactions/ff8a1f" alt="Automation"></div><b>Automation</b><span>Simplify Repetitive Tasks</span></div><div class="tool"><div class="ico"><img src="https://cdn.simpleicons.org/opensourceinitiative/white" alt="Open Source"></div><b>Open Source</b><span>Build, Learn &amp; Share</span></div></div>
 ### ⚙️ Other Tools & Interests
 
 <p align="center">
