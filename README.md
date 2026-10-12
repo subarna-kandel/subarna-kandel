@@ -7,10 +7,10 @@
 </a>
 
 <p>
-  <a href="https://subarnakandel.co.np">
-    <img src="https://img.shields.io/badge/Portfolio-subarnakandel.co.np-0b1f33?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://subarnakandel.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-subarnakandel.com.np-0b1f33?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:mail@subarnakandel.co.np">
+  <a href="mailto:mail@subarnakandel.com.np">
     <img src="https://img.shields.io/badge/Email-Contact%20me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/subarna-kandel">
